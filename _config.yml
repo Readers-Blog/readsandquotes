@@ -12,7 +12,7 @@ email:              ''
 description:        Selection of Quotes & Excerpts
 baseurl:            '/readsandquotes' # The subpath of your site, e.g. /blog
 url:                'https://readers-blog.github.io' # The base hostname & protocol for your site
-github_username:    aspirethemes
+github_username:    ''
 twitter_username:   ''
 instagram_username: ''
 
