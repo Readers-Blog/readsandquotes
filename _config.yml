@@ -48,7 +48,7 @@ defaults:
 
 # Authors
 authors:
-  ahmad:
+  Ginger:
     name:             Ginger CauliflowerBread
     bio:              Reading enthusiast and aspiring Minimalist. I love discovering new writings & phylosophies and grow through them.
     gravatar:         ''
@@ -56,3 +56,8 @@ authors:
     website:          ''
     github_username:  ''
     twitter_username: ''
+
+  Richard Rohr:
+    name:             Richard Rohr
+    bio:              Richard Rohr is an American author, spiritual writer and Franciscan friar based in Albuquerque, New Mexico. He was ordained to the priesthood in the Roman Catholic Church in 1970.
+    gravatar:         https://www.ncronline.org/sites/default/files/styles/article_one-third_width/public/thumbRNS-ROHR-BOOK101916b.jpg
