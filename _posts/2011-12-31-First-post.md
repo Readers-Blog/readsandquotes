@@ -7,7 +7,7 @@ tags: [python, ruby, java]
 image: '/images/posts/image.jpeg'
 ---
 
-# Welcome
+Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
