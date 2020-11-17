@@ -5,7 +5,7 @@ title: About
 
 You love reading? And you also love writing? 
 
-This little collection is a personal space where I save some quotes and book excerpts. These have been passages helping me driving through moments when I seeked for answers which no-one could provide.
+This little collection is a personal space where I save some quotes and book excerpts. These have been passages helping me driving through moments when I was seeking for answers which no-one could provide.
 
 This collection does not have the pretension to be a world-changer, but merely a little side door to share some rich gifts offered to me through books by some fabulous people who crossed my path and left a profound and strong footprint in my life.
 
