@@ -1,11 +1,11 @@
 ---
 layout: page
 title: About
-image: '/images/pages/about.jpeg'
+image: ''
 ---
 
-You love Minimalism, and you also love writing, Maxima is designed for you. Maxima focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+You love reading, and you also love writing, this personal blog is a little personal space where I save some quotes and book excerpts. These have been strong passages whopushed me through moments where I needed answers that no-one could give.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+This collection does not have the pretention to be a world changer, but a little side door to share some rich gifts that were offered to me through books and people who crossed my path and left a deep and rich footprint in my life.
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+I am grateful for all what they gave me and I belive this humble collection could be my way to return the favour to others.
