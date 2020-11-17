@@ -1,4 +1,4 @@
 ---
-layout: tag-page
-title: Tags
+layout: page
+title: Tag
 ---
