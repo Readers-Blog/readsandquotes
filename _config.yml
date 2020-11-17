@@ -9,7 +9,7 @@
 title:              Reads and Quotes
 logo:               # Logo image URL
 email:              ''
-description:        Minimal selection of Quotes & Reading extracts
+description:        Selection of Quotes & Excerpts
 baseurl:            '/readsandquotes' # The subpath of your site, e.g. /blog
 url:                'https://github.com/Readers-Blog/readsandquotes/' # The base hostname & protocol for your site
 github_username:    aspirethemes
