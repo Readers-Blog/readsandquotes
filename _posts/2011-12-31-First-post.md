@@ -5,7 +5,7 @@
   author: john
   tags: [python, ruby, java]
   image: '/images/posts/image.jpeg'
-  ---
+ ---
 
   # Welcome
 
