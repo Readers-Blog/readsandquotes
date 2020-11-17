@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-image: ''
 ---
 
 You love reading, and you also love writing, this personal blog is a little personal space where I save some quotes and book excerpts. These have been strong passages whopushed me through moments where I needed answers that no-one could give.
