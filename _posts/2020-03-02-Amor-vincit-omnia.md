@@ -4,7 +4,7 @@ title: Amor vincit omnia!
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, spirituality, love, life, death]
-image: \images\posts\forgiveness.jpg
+image: \images\posts\forgiveness.png
 ---
 
 We are all allowed to ride life and love's wonderful mystery for a few years ― until  life and love reveal themselves as the same thing [...] ― life morphing into a love that is beyond space and time. 

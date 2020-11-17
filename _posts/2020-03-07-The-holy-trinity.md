@@ -4,7 +4,7 @@ title: God is a verb; God is three relations.
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", christianity, spirituality, trinity, God, theology, Father, Son, Holy-Spirit, science, physics, therapy]
-image: \images\posts\clover.jpg
+image: \images\posts\clover.png
 ---
 
 First, it says that God is more a verb than a noun: God is three "relations", which of itself is mind-boggling for most believers. Yet it opens up an honest notion of God as Mystery who can never be fully understood with our rational, instrumental, mechanical minds. God is a process rather than a clear name or idea, a communion, Interbeing itself, and never an isolated deity that can be captured by our minds.
