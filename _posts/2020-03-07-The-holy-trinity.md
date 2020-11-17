@@ -7,7 +7,7 @@ tags: ["true-self", "immortal-diamond", christianity, spirituality, trinity, God
 image: \images\posts\clover.jpg
 ---
 
-First, it says that God is more a verb than a noun: God is three "relations", which of itself is mind-boggling for most belivers. Yet it opens up an honest notion of God as Mystery who can never be fully understood with our rational, instrumental, mechanical minds. God is a process rather than a clear name or idea, a communion, Interbeing itself, and never an isolated deity that can be captured by our minds.
+First, it says that God is more a verb than a noun: God is three "relations", which of itself is mind-boggling for most believers. Yet it opens up an honest notion of God as Mystery who can never be fully understood with our rational, instrumental, mechanical minds. God is a process rather than a clear name or idea, a communion, Interbeing itself, and never an isolated deity that can be captured by our minds.
 
 Christians believe that God is formlessness (the Father), God is form (the Son), and God is the very life and love energy between those two (the Holy Spirit). The three do not cancel one another out; rather, they do exactly the opposite. God is relationship itself and known in relationship, which opens a huge conversation with the world of science and physics and therapy too.
 
