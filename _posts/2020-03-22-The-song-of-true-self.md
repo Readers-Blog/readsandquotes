@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The song of true self
+title: The song of the True Self
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", spirituality]
