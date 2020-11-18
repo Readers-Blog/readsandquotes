@@ -12,7 +12,9 @@ image: \images\posts\mothers-love.png
 T.S. Eliot says it more dramatically in the "_Four Quartets_":
 
 >The only, hope or else despair,
+
 >Lies in the choice of pyre or pyre ―
+
 >To be redeemed from fire by fire.
 
 [...]
