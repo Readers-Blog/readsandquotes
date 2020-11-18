@@ -18,7 +18,8 @@ T.S. Eliot says it more dramatically in the "_Four Quartets_":
 [...]
 
 What dies? Your False Self ― and it is just a matter of **when**, not **if**.  
-Who lives? The God Self that has always lived, but now includes **You**.  
+Who lives? The God Self that has always lived, but now includes **You**. 
+
 N.B.: It is a **What** that dies, and a **Who** that lives!  
 
 ― Richard Rohr, "_Immortal Diamond_", pp.65-66
