@@ -3,7 +3,7 @@ layout: post
 title: Loving even more, and more patiently
 featured: true
 author: Richard Rohr
-tags: ["true-self", "immortal-diamond", scriptures, spirituality, christrianity, hinduism, islam, christianism, judaism, catholicism, evangelicalism, faith, God]
+tags: ["true-self", "immortal-diamond", love, "unconditional love", God, child, parent, patience]
 image: \images\posts\unconditional.png
 ---
 
