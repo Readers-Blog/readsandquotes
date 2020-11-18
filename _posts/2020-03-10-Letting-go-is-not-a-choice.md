@@ -7,6 +7,6 @@ tags: ["true-self", "The Grace of Dying", identity, spirituality, transformation
 image: \images\posts\leaving.png
 ---
 
-**Letting go is not a choice.** None of the transformatins of the dying process are a choice... Imagine if you will, water rushing towards a drain.
+**Letting go is not a choice.** None of the transformations of the dying process are a choice... Imagine if you will, water rushing towards a drain.
 
 ― Kathleen Dowling Singh, "_The Grace of Dying_"
