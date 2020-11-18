@@ -51,11 +51,11 @@ authors:
   Ginger:
     name:             Ginger CauliflowerBread
     bio:              Reading enthusiast and aspiring Minimalist. I love discovering and growing through new readings & phylosophies.
-    gravatar:         ''
-    email:            ''
+    # gravatar:         ''
+    # email:            ''
     website:          https://readers-blog.github.io/readsandquotes/
-    github_username:  ''
-    twitter_username: ''
+    # github_username:  ''
+    # twitter_username: ''
 
   Richard Rohr:
     name:             Richard Rohr
