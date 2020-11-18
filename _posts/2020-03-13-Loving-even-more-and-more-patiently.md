@@ -14,4 +14,4 @@ God has always loved himself in us, even when we refuse to love and honor oursel
 
 Which is a Trinitarian and absolute love. This is an ever-widening ripple of participation until it reaches the furthest edges of the human ― and surely beyond the human to all of creation. 
 
-― Richard Rohr, "_Immortal Diamond_", pp.126
+― Richard Rohr, "_Immortal Diamond_", p.126
