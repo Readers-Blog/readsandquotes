@@ -7,6 +7,6 @@ tags: ["true-self", "immortal-diamond", love, "unconditional love", God, failure
 image: \images\posts\empty-dark.png
 ---
 
-A human's best chance of finding God is to look in the very place where they abandoned God.
+>A human's best chance of finding God is to look in the very place where they abandoned God.
 
 ― Meister Eckhart von Hochheim
