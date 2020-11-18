@@ -12,6 +12,6 @@ Moralism is the common substitute and counterfeit for mysticism in almost all re
 >"It does not matter wether one is circumcised or not, **what matters is that you become a whole new creation.**
 (Galatians 6:16)
 
-![What matters is that you become a whole new creation](\images\posts\wildlife.png)
+![What matters is that you become a whole new creation](\images\pages\wildlife.png)
 
 ― Richard Rohr, "_Immortal Diamond_", pp.102-103
