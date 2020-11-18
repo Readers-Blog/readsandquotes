@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everytime you choose to love, you have also just chosen to die
+title: Every time you choose to love, you have also just chosen to die
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", trust, daring, death, "False Self", life, love, search, "unconditional love", gift, spirituality]
