@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The mystery of Faith.
+title: The mystery of Faith
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, spirituality, christrianity, buddhism, death, life, mystery, faith]

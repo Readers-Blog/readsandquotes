@@ -1,6 +1,6 @@
 ---
 layout: post
-title: God is a verb; God is three relations.
+title: God is a verb; God is three relations
 featured: true
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", christianity, spirituality, trinity, God, theology, Father, Son, Holy-Spirit, science, physics, therapy]
