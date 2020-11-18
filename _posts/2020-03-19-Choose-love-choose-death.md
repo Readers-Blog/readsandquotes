@@ -11,18 +11,14 @@ image: \images\posts\mothers-love.png
 
 T.S. Eliot says it more dramatically in the "_Four Quartets_":
 
->The only, hope or else despair,
-
->Lies in the choice of pyre or pyre ―
-
+>The only, hope or else despair,  
+>Lies in the choice of pyre or pyre ―  
 >To be redeemed from fire by fire.
 
 [...]
 
-What dies? Your False Self ― and it is just a matter of **when**, not **if**.
-
-Who lives? The God Self that has always lived, but now includes **You**.
-
-N.B.: It is a **What** that dies, and a **Who** that lives!
+What dies? Your False Self ― and it is just a matter of **when**, not **if**.  
+Who lives? The God Self that has always lived, but now includes **You**.  
+N.B.: It is a **What** that dies, and a **Who** that lives!  
 
 ― Richard Rohr, "_Immortal Diamond_", pp.65-66
