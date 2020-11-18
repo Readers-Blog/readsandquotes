@@ -16,7 +16,7 @@ Call it nothing.
 It does not need the right name or right religion to show itself.  
 It does not even need to be understood. It is usually wordless. 
 
-**It just is, and shows itself best when we are silent, or in love or both.**  
+**It just is, and shows itself best when we are silent, or in love, or both.**  
 **It is the True Self.**
 
 It is God-in-All-Things yet not circumscribed by any one thing.  
