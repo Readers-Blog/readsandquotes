@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+author: Ginger
 ---
 
 You love reading? And you also love writing? 
