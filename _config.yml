@@ -50,10 +50,10 @@ defaults:
 authors:
   Ginger:
     name:             Ginger CauliflowerBread
-    bio:              Reading enthusiast and aspiring Minimalist. I love discovering new writings & phylosophies and grow through them.
+    bio:              Reading enthusiast and aspiring Minimalist. I love discovering and growing through new readings & phylosophies.
     gravatar:         ''
     email:            ''
-    website:          ''
+    website:          https://readers-blog.github.io/readsandquotes/
     github_username:  ''
     twitter_username: ''
 
