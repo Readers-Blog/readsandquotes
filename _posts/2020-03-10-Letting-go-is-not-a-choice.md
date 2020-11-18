@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Letting go is not a choice
+title: Enlightenment at gunpoint
 featured: true
 author: Kathleen Dowling Singh
 tags: ["true-self", "The Grace of Dying", identity, spirituality, transformation, death, enlightenment, "letting go"]
