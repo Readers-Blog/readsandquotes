@@ -7,8 +7,6 @@ tags: ["true-self", "immortal-diamond", identity, "False Self", sin, morality, m
 image: \images\posts\droplet-world.png
 ---
 
-**You can forgive the outer world only if and when you have first forgiven your own inner world.**
-
 >[Faith is the] "narrow way that few follow upon"  
 >(Matthew 7:14)
 
