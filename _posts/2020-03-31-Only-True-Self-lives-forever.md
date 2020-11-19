@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Only your Trues Self lives forever 
+title: Only your True Self lives forever 
 featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, "False Self", faith, trust, soul, ego, death, children, life, spirituality]
