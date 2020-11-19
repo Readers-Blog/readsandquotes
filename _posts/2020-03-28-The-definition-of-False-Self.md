@@ -3,7 +3,7 @@ layout: post
 title: Your False Self is who you think you are
 featured: true
 author: Richard Rohr
-tags: ["true-self", "immortal-diamond", identity, "False Self", "Missionaries of Charity", contemplation, Jesus, Buddha, "St Francis", "Teresa d'Avila", "Teresa de Lisieux", "Mother Theresa", Hafiz, Kabir, Rumi, witnesses, loss, death, monks, friars, nuns, silence, truth, spirituality, change, society, journey,childhood, parents, family, neighbours, partner, spouse, religion, love, relationship, faith, preoccupations,]
+tags: ["true-self", "immortal-diamond", identity, "False Self", "Missionaries of Charity", contemplation, Jesus, Buddha, "St Francis", "Teresa d'Avila", "Teresa de Lisieux", "Mother Theresa", Hafiz, Kabir, Rumi, witnesses, loss, death, monks, friars, nuns, silence, truth, spirituality, change, society, journey,childhood, parents, family, neighbours, partner, spouse, religion, love, relationship, faith, preoccupations]
 image: \images\posts\path-silence.png
 ---
 
