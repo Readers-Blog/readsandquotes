@@ -3,7 +3,7 @@ layout: post
 title: You can forgive the outer world only if and when you have first forgiven your own inner world
 featured: true
 author: Richard Rohr
-tags: ["true-self", "immortal-diamond", identity, "False Self", sin, morality, mistakes, lies, consciousness, unconsciousness, spirituality, change]
+tags: ["true-self", "immortal-diamond", identity, "False Self", faith, reality, certainties, contradictions, search, forgiveness, consciousness, unconsciousness, spirituality, change]
 image: \images\posts\droplet-world.png
 ---
 
