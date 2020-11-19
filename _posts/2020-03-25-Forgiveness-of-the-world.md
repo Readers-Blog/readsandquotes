@@ -18,4 +18,4 @@ The False Self fears and denies all seeming contradictions, probably because it 
 
 **You can forgive the outer world only if and when you have first forgiven your own inner world.**
 
-― Richard Rohr, "_Immortal Diamond_", p.51
+― Richard Rohr, "_Immortal Diamond_", pp.47-48
