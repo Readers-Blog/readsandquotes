@@ -9,6 +9,6 @@ image: \images\posts\recovery.png
 
 [...] It all starts with dying to our own addictive, compulsive, and negative ways of processing reality. That is the biggest and hardest death of all, and it has no social payoff or immediate satisfaction whatsoever. There is no full recovery from addiction, Bill Wilson said, until we have achieved actual "emotional sobriety."
 
-_Contemplation is the ultimate recovery, because it is from the universal addiction to our own preffered way of thinking._
+_Contemplation is the ultimate recovery, because it is from the universal addiction to our own preferred way of thinking._
 
 ― Richard Rohr, "_Immortal Diamond_", pp.41-42
