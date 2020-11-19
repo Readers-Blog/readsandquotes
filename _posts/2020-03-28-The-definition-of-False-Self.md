@@ -13,7 +13,7 @@ Your False Self is almost entirely a social construct to get you started on your
 
 Your False Self is a set of agreements between your childhood and your parents, your family, your neighbours, your school chums, your partner or spouse, and your religion.
 
-Your False Self is your "container for your separate self. [...]
+Your False Self is your "container" for your separate self. [...]
 
 Your False Self is how you define yourself outside of love, relationship, or divine union. 
 
