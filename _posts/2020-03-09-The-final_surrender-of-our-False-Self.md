@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The final surrender of our False Self
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, spirituality, "False Self", death, enlightenment, surrender]
 image: \images\posts\surrender.png

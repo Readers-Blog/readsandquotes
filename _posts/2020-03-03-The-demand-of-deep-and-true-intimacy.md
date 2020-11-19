@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The demand of deep and true intimacy
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, spirituality, self-disclosure, intimacy, sexuality, nakedness, celibacy]
 ---

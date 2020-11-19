@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thou art That; To dare to trust.
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", trust, daring, God, healing, Jesus, space, time, beauty, "divine friendship", life, love, search, "unconditional love", spirituality]
 image: \images\posts\trust.png

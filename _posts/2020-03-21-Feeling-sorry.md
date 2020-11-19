@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The denial of death
-featured: true
+featured: false
 author: Ernest Becker
 tags: [death, sorry, "letting go", spirituality]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rigid Capitalism or the denial of humanness
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", identity, spirituality, christianism, capitalism, "John Paul II", humanness, manipulation, violation, annulment, totalitarian, communism, Nazism, consumerism, materialism]
 image: \images\posts\humanness.png

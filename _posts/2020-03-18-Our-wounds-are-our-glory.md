@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our wounds are our glory
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", trust, God, healing, Jesus, space, time, life, wounds, pain, spirituality]
 ---

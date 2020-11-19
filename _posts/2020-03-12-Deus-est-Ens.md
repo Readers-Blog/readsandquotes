@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deus est Ens
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", scriptures, spirituality, christrianity, hinduism, islam, christianism, judaism, catholicism, evangelicalism, faith, God]
 image: \images\posts\tree.png

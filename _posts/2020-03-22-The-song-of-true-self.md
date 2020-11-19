@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The song of the True Self
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", spirituality]
 image: \images\posts\dico.png

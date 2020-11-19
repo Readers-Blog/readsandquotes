@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What dies and who lives?
-featured: true
+featured: false
 author: Richard Rohr
 tags: ["true-self", "immortal-diamond", trust, daring, death, "False Self", life, death,  search, "letting go", religion, spirituality]
 ---
