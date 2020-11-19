@@ -3,7 +3,7 @@ layout: post
 title: The False Self is a house built on sand
 featured: true
 author: Richard Rohr
-tags: ["true-self", "immortal-diamond", identity, "False Self", sin, morality, mistakes, lies, consciousness, unconsciousness, spirituality]
+tags: ["true-self", "immortal-diamond", identity, "False Self", sin, morality, mistakes, lies, consciousness, unconsciousness, spirituality, change]
 image: \images\posts\house-sand.png
 ---
 
